@@ -1,0 +1,17 @@
+# OS generated files #
+######################
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+._*
+wp-config.php
+wp-content/uploads/*
+
+#     Other files    #
+######################
+*.sql
+*.zip
+*.tar
+*.tar.gz
+*.code-workspace
